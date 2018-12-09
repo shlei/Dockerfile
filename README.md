@@ -4,7 +4,7 @@ Dockerfile-tornado:
 
 This image base on the newest ubuntu image from docker hub.
 
-added python3 python3-def python3-pip to this image
+added python3 python3-def python3-pip and tornado to this image
 
 before build, please change the file name to Dockerfile
 
